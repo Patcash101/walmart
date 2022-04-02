@@ -11,6 +11,8 @@
 # hlsearch on (H) or off (h):
 ~H
 # Command Line History (newest to oldest):
+:wq!
+|2,0,1648666006,,"wq!"
 
 # Search String History (newest to oldest):
 
@@ -29,36 +31,176 @@
 |3,0,32,0,1,0,1645906749,"!€ýa"
 
 # File marks:
-'0  5  25  ~/zelle/zelle
-|4,48,5,25,1646017576,"~/zelle/zelle"
-'1  5  25  ~/zelle/zelle
-|4,49,5,25,1646013395,"~/zelle/zelle"
-'2  10  5  ~/Cashpat/managers.sh
-|4,50,10,5,1645915467,"~/Cashpat/managers.sh"
-'3  1  0  ~/Cashpat/magaers.sh
-|4,51,1,0,1645915323,"~/Cashpat/magaers.sh"
-'4  7  3  ~/Cashpat/managers.sh
-|4,52,7,3,1645911561,"~/Cashpat/managers.sh"
-'5  7  3  ~/Cashpat/managers.sh
-|4,53,7,3,1645911561,"~/Cashpat/managers.sh"
-'6  5  34  ~/Cashpat/cash.java
-|4,54,5,34,1645907352,"~/Cashpat/cash.java"
-'7  1  0  ~/Cashpat/cash.java
-|4,55,1,0,1645907292,"~/Cashpat/cash.java"
-'8  1  0  ~/Cashpat/cash.java
-|4,56,1,0,1645907292,"~/Cashpat/cash.java"
-'9  5  34  ~/Cashpat/cash
-|4,57,5,34,1645907049,"~/Cashpat/cash"
+'0  10  0  ~/Paypal/Cash/managers.sh
+|4,48,10,0,1648723562,"~/Paypal/Cash/managers.sh"
+'1  4  6  ~/Paypal/managers
+|4,49,4,6,1648677776,"~/Paypal/managers"
+'2  5  44  ~/Paypal/app.java
+|4,50,5,44,1648666006,"~/Paypal/app.java"
+'3  5  25  ~/zelle/zelle
+|4,51,5,25,1646017576,"~/zelle/zelle"
+'4  5  25  ~/zelle/zelle
+|4,52,5,25,1646013395,"~/zelle/zelle"
+'5  10  5  ~/Cashpat/managers.sh
+|4,53,10,5,1645915467,"~/Cashpat/managers.sh"
+'6  1  0  ~/Cashpat/magaers.sh
+|4,54,1,0,1645915323,"~/Cashpat/magaers.sh"
+'7  7  3  ~/Cashpat/managers.sh
+|4,55,7,3,1645911561,"~/Cashpat/managers.sh"
+'8  7  3  ~/Cashpat/managers.sh
+|4,56,7,3,1645911561,"~/Cashpat/managers.sh"
+'9  5  34  ~/Cashpat/cash.java
+|4,57,5,34,1645907352,"~/Cashpat/cash.java"
 
 # Jumplist (newest first):
+-'  10  0  ~/Paypal/Cash/managers.sh
+|4,39,10,0,1648723562,"~/Paypal/Cash/managers.sh"
+-'  1  0  ~/Paypal/Cash/managers.sh
+|4,39,1,0,1648723528,"~/Paypal/Cash/managers.sh"
+-'  4  6  ~/Paypal/managers
+|4,39,4,6,1648677776,"~/Paypal/managers"
+-'  4  6  ~/Paypal/managers
+|4,39,4,6,1648677776,"~/Paypal/managers"
+-'  1  0  ~/Paypal/managers
+|4,39,1,0,1648677604,"~/Paypal/managers"
+-'  1  0  ~/Paypal/managers
+|4,39,1,0,1648677604,"~/Paypal/managers"
+-'  5  44  ~/Paypal/app.java
+|4,39,5,44,1648666006,"~/Paypal/app.java"
+-'  5  44  ~/Paypal/app.java
+|4,39,5,44,1648666006,"~/Paypal/app.java"
+-'  5  44  ~/Paypal/app.java
+|4,39,5,44,1648666006,"~/Paypal/app.java"
+-'  5  44  ~/Paypal/app.java
+|4,39,5,44,1648666006,"~/Paypal/app.java"
+-'  1  0  ~/Paypal/app.java
+|4,39,1,0,1648665962,"~/Paypal/app.java"
+-'  1  0  ~/Paypal/app.java
+|4,39,1,0,1648665962,"~/Paypal/app.java"
+-'  1  0  ~/Paypal/app.java
+|4,39,1,0,1648665962,"~/Paypal/app.java"
+-'  1  0  ~/Paypal/app.java
+|4,39,1,0,1648665962,"~/Paypal/app.java"
 -'  5  25  ~/zelle/zelle
 |4,39,5,25,1646017576,"~/zelle/zelle"
+-'  5  25  ~/zelle/zelle
+|4,39,5,25,1646017576,"~/zelle/zelle"
+-'  5  25  ~/zelle/zelle
+|4,39,5,25,1646017576,"~/zelle/zelle"
+-'  5  25  ~/zelle/zelle
+|4,39,5,25,1646017576,"~/zelle/zelle"
+-'  5  25  ~/zelle/zelle
+|4,39,5,25,1646017576,"~/zelle/zelle"
+-'  5  25  ~/zelle/zelle
+|4,39,5,25,1646017576,"~/zelle/zelle"
+-'  5  25  ~/zelle/zelle
+|4,39,5,25,1646017576,"~/zelle/zelle"
+-'  5  25  ~/zelle/zelle
+|4,39,5,25,1646017576,"~/zelle/zelle"
+-'  5  25  ~/zelle/zelle
+|4,39,5,25,1646013395,"~/zelle/zelle"
+-'  5  25  ~/zelle/zelle
+|4,39,5,25,1646013395,"~/zelle/zelle"
+-'  5  25  ~/zelle/zelle
+|4,39,5,25,1646013395,"~/zelle/zelle"
+-'  5  25  ~/zelle/zelle
+|4,39,5,25,1646013395,"~/zelle/zelle"
+-'  5  25  ~/zelle/zelle
+|4,39,5,25,1646013395,"~/zelle/zelle"
+-'  5  25  ~/zelle/zelle
+|4,39,5,25,1646013395,"~/zelle/zelle"
+-'  5  25  ~/zelle/zelle
+|4,39,5,25,1646013395,"~/zelle/zelle"
 -'  5  25  ~/zelle/zelle
 |4,39,5,25,1646013395,"~/zelle/zelle"
 -'  1  0  ~/zelle/zelle
 |4,39,1,0,1646013063,"~/zelle/zelle"
 -'  1  0  ~/zelle/zelle
 |4,39,1,0,1646013063,"~/zelle/zelle"
+-'  1  0  ~/zelle/zelle
+|4,39,1,0,1646013063,"~/zelle/zelle"
+-'  1  0  ~/zelle/zelle
+|4,39,1,0,1646013063,"~/zelle/zelle"
+-'  1  0  ~/zelle/zelle
+|4,39,1,0,1646013063,"~/zelle/zelle"
+-'  1  0  ~/zelle/zelle
+|4,39,1,0,1646013063,"~/zelle/zelle"
+-'  1  0  ~/zelle/zelle
+|4,39,1,0,1646013063,"~/zelle/zelle"
+-'  1  0  ~/zelle/zelle
+|4,39,1,0,1646013063,"~/zelle/zelle"
+-'  1  0  ~/zelle/zelle
+|4,39,1,0,1646013063,"~/zelle/zelle"
+-'  1  0  ~/zelle/zelle
+|4,39,1,0,1646013063,"~/zelle/zelle"
+-'  1  0  ~/zelle/zelle
+|4,39,1,0,1646013063,"~/zelle/zelle"
+-'  1  0  ~/zelle/zelle
+|4,39,1,0,1646013063,"~/zelle/zelle"
+-'  1  0  ~/zelle/zelle
+|4,39,1,0,1646013063,"~/zelle/zelle"
+-'  1  0  ~/zelle/zelle
+|4,39,1,0,1646013063,"~/zelle/zelle"
+-'  1  0  ~/zelle/zelle
+|4,39,1,0,1646013063,"~/zelle/zelle"
+-'  1  0  ~/zelle/zelle
+|4,39,1,0,1646013063,"~/zelle/zelle"
+-'  10  5  ~/Cashpat/managers.sh
+|4,39,10,5,1645915467,"~/Cashpat/managers.sh"
+-'  10  5  ~/Cashpat/managers.sh
+|4,39,10,5,1645915467,"~/Cashpat/managers.sh"
+-'  10  5  ~/Cashpat/managers.sh
+|4,39,10,5,1645915467,"~/Cashpat/managers.sh"
+-'  10  5  ~/Cashpat/managers.sh
+|4,39,10,5,1645915467,"~/Cashpat/managers.sh"
+-'  10  5  ~/Cashpat/managers.sh
+|4,39,10,5,1645915467,"~/Cashpat/managers.sh"
+-'  10  5  ~/Cashpat/managers.sh
+|4,39,10,5,1645915467,"~/Cashpat/managers.sh"
+-'  10  5  ~/Cashpat/managers.sh
+|4,39,10,5,1645915467,"~/Cashpat/managers.sh"
+-'  10  5  ~/Cashpat/managers.sh
+|4,39,10,5,1645915467,"~/Cashpat/managers.sh"
+-'  10  5  ~/Cashpat/managers.sh
+|4,39,10,5,1645915467,"~/Cashpat/managers.sh"
+-'  10  5  ~/Cashpat/managers.sh
+|4,39,10,5,1645915467,"~/Cashpat/managers.sh"
+-'  10  5  ~/Cashpat/managers.sh
+|4,39,10,5,1645915467,"~/Cashpat/managers.sh"
+-'  10  5  ~/Cashpat/managers.sh
+|4,39,10,5,1645915467,"~/Cashpat/managers.sh"
+-'  10  5  ~/Cashpat/managers.sh
+|4,39,10,5,1645915467,"~/Cashpat/managers.sh"
+-'  10  5  ~/Cashpat/managers.sh
+|4,39,10,5,1645915467,"~/Cashpat/managers.sh"
+-'  10  5  ~/Cashpat/managers.sh
+|4,39,10,5,1645915467,"~/Cashpat/managers.sh"
+-'  10  5  ~/Cashpat/managers.sh
+|4,39,10,5,1645915467,"~/Cashpat/managers.sh"
+-'  10  5  ~/Cashpat/managers.sh
+|4,39,10,5,1645915467,"~/Cashpat/managers.sh"
+-'  10  5  ~/Cashpat/managers.sh
+|4,39,10,5,1645915467,"~/Cashpat/managers.sh"
+-'  10  5  ~/Cashpat/managers.sh
+|4,39,10,5,1645915467,"~/Cashpat/managers.sh"
+-'  10  5  ~/Cashpat/managers.sh
+|4,39,10,5,1645915467,"~/Cashpat/managers.sh"
+-'  10  5  ~/Cashpat/managers.sh
+|4,39,10,5,1645915467,"~/Cashpat/managers.sh"
+-'  10  5  ~/Cashpat/managers.sh
+|4,39,10,5,1645915467,"~/Cashpat/managers.sh"
+-'  10  5  ~/Cashpat/managers.sh
+|4,39,10,5,1645915467,"~/Cashpat/managers.sh"
+-'  10  5  ~/Cashpat/managers.sh
+|4,39,10,5,1645915467,"~/Cashpat/managers.sh"
+-'  10  5  ~/Cashpat/managers.sh
+|4,39,10,5,1645915467,"~/Cashpat/managers.sh"
+-'  10  5  ~/Cashpat/managers.sh
+|4,39,10,5,1645915467,"~/Cashpat/managers.sh"
+-'  10  5  ~/Cashpat/managers.sh
+|4,39,10,5,1645915467,"~/Cashpat/managers.sh"
+-'  10  5  ~/Cashpat/managers.sh
+|4,39,10,5,1645915467,"~/Cashpat/managers.sh"
 -'  10  5  ~/Cashpat/managers.sh
 |4,39,10,5,1645915467,"~/Cashpat/managers.sh"
 -'  10  5  ~/Cashpat/managers.sh
@@ -75,184 +217,66 @@
 |4,39,7,3,1645915425,"~/Cashpat/managers.sh"
 -'  7  3  ~/Cashpat/managers.sh
 |4,39,7,3,1645915425,"~/Cashpat/managers.sh"
--'  1  0  ~/Cashpat/magaers.sh
-|4,39,1,0,1645915323,"~/Cashpat/magaers.sh"
--'  1  0  ~/Cashpat/magaers.sh
-|4,39,1,0,1645915323,"~/Cashpat/magaers.sh"
--'  1  0  ~/Cashpat/magaers.sh
-|4,39,1,0,1645915323,"~/Cashpat/magaers.sh"
--'  1  0  ~/Cashpat/magaers.sh
-|4,39,1,0,1645915323,"~/Cashpat/magaers.sh"
--'  1  0  ~/Cashpat/magaers.sh
-|4,39,1,0,1645915323,"~/Cashpat/magaers.sh"
--'  1  0  ~/Cashpat/magaers.sh
-|4,39,1,0,1645915323,"~/Cashpat/magaers.sh"
--'  1  0  ~/Cashpat/magaers.sh
-|4,39,1,0,1645915323,"~/Cashpat/magaers.sh"
--'  1  0  ~/Cashpat/magaers.sh
-|4,39,1,0,1645915323,"~/Cashpat/magaers.sh"
 -'  7  3  ~/Cashpat/managers.sh
-|4,39,7,3,1645911561,"~/Cashpat/managers.sh"
+|4,39,7,3,1645915425,"~/Cashpat/managers.sh"
 -'  7  3  ~/Cashpat/managers.sh
-|4,39,7,3,1645911561,"~/Cashpat/managers.sh"
+|4,39,7,3,1645915425,"~/Cashpat/managers.sh"
 -'  7  3  ~/Cashpat/managers.sh
-|4,39,7,3,1645911561,"~/Cashpat/managers.sh"
+|4,39,7,3,1645915425,"~/Cashpat/managers.sh"
 -'  7  3  ~/Cashpat/managers.sh
-|4,39,7,3,1645911561,"~/Cashpat/managers.sh"
+|4,39,7,3,1645915425,"~/Cashpat/managers.sh"
 -'  7  3  ~/Cashpat/managers.sh
-|4,39,7,3,1645911561,"~/Cashpat/managers.sh"
+|4,39,7,3,1645915425,"~/Cashpat/managers.sh"
 -'  7  3  ~/Cashpat/managers.sh
-|4,39,7,3,1645911561,"~/Cashpat/managers.sh"
+|4,39,7,3,1645915425,"~/Cashpat/managers.sh"
 -'  7  3  ~/Cashpat/managers.sh
-|4,39,7,3,1645911561,"~/Cashpat/managers.sh"
+|4,39,7,3,1645915425,"~/Cashpat/managers.sh"
 -'  7  3  ~/Cashpat/managers.sh
-|4,39,7,3,1645911561,"~/Cashpat/managers.sh"
--'  1  0  ~/Cashpat/managers.sh
-|4,39,1,0,1645911419,"~/Cashpat/managers.sh"
--'  1  0  ~/Cashpat/managers.sh
-|4,39,1,0,1645911419,"~/Cashpat/managers.sh"
--'  1  0  ~/Cashpat/managers.sh
-|4,39,1,0,1645911419,"~/Cashpat/managers.sh"
--'  1  0  ~/Cashpat/managers.sh
-|4,39,1,0,1645911419,"~/Cashpat/managers.sh"
--'  1  0  ~/Cashpat/managers.sh
-|4,39,1,0,1645911419,"~/Cashpat/managers.sh"
--'  1  0  ~/Cashpat/managers.sh
-|4,39,1,0,1645911419,"~/Cashpat/managers.sh"
--'  1  0  ~/Cashpat/managers.sh
-|4,39,1,0,1645911419,"~/Cashpat/managers.sh"
--'  1  0  ~/Cashpat/managers.sh
-|4,39,1,0,1645911419,"~/Cashpat/managers.sh"
--'  1  0  ~/Cashpat/managers.sh
-|4,39,1,0,1645911419,"~/Cashpat/managers.sh"
--'  1  0  ~/Cashpat/managers.sh
-|4,39,1,0,1645911419,"~/Cashpat/managers.sh"
--'  1  0  ~/Cashpat/managers.sh
-|4,39,1,0,1645911419,"~/Cashpat/managers.sh"
--'  1  0  ~/Cashpat/managers.sh
-|4,39,1,0,1645911419,"~/Cashpat/managers.sh"
--'  5  34  ~/Cashpat/cash.java
-|4,39,5,34,1645907352,"~/Cashpat/cash.java"
--'  5  34  ~/Cashpat/cash.java
-|4,39,5,34,1645907352,"~/Cashpat/cash.java"
--'  5  34  ~/Cashpat/cash.java
-|4,39,5,34,1645907352,"~/Cashpat/cash.java"
--'  5  34  ~/Cashpat/cash.java
-|4,39,5,34,1645907352,"~/Cashpat/cash.java"
--'  5  34  ~/Cashpat/cash.java
-|4,39,5,34,1645907352,"~/Cashpat/cash.java"
--'  5  34  ~/Cashpat/cash.java
-|4,39,5,34,1645907352,"~/Cashpat/cash.java"
--'  5  34  ~/Cashpat/cash.java
-|4,39,5,34,1645907352,"~/Cashpat/cash.java"
--'  5  34  ~/Cashpat/cash.java
-|4,39,5,34,1645907352,"~/Cashpat/cash.java"
--'  5  34  ~/Cashpat/cash.java
-|4,39,5,34,1645907352,"~/Cashpat/cash.java"
--'  5  34  ~/Cashpat/cash.java
-|4,39,5,34,1645907352,"~/Cashpat/cash.java"
--'  5  34  ~/Cashpat/cash.java
-|4,39,5,34,1645907352,"~/Cashpat/cash.java"
--'  5  34  ~/Cashpat/cash.java
-|4,39,5,34,1645907352,"~/Cashpat/cash.java"
--'  5  34  ~/Cashpat/cash.java
-|4,39,5,34,1645907352,"~/Cashpat/cash.java"
--'  5  34  ~/Cashpat/cash.java
-|4,39,5,34,1645907352,"~/Cashpat/cash.java"
--'  5  34  ~/Cashpat/cash.java
-|4,39,5,34,1645907352,"~/Cashpat/cash.java"
--'  5  34  ~/Cashpat/cash.java
-|4,39,5,34,1645907352,"~/Cashpat/cash.java"
--'  5  34  ~/Cashpat/cash.java
-|4,39,5,34,1645907352,"~/Cashpat/cash.java"
--'  5  34  ~/Cashpat/cash.java
-|4,39,5,34,1645907352,"~/Cashpat/cash.java"
--'  5  34  ~/Cashpat/cash.java
-|4,39,5,34,1645907352,"~/Cashpat/cash.java"
--'  5  34  ~/Cashpat/cash.java
-|4,39,5,34,1645907352,"~/Cashpat/cash.java"
--'  5  34  ~/Cashpat/cash.java
-|4,39,5,34,1645907352,"~/Cashpat/cash.java"
--'  5  34  ~/Cashpat/cash.java
-|4,39,5,34,1645907352,"~/Cashpat/cash.java"
--'  5  34  ~/Cashpat/cash.java
-|4,39,5,34,1645907352,"~/Cashpat/cash.java"
--'  5  34  ~/Cashpat/cash.java
-|4,39,5,34,1645907352,"~/Cashpat/cash.java"
--'  5  34  ~/Cashpat/cash.java
-|4,39,5,34,1645907352,"~/Cashpat/cash.java"
--'  5  34  ~/Cashpat/cash.java
-|4,39,5,34,1645907352,"~/Cashpat/cash.java"
--'  5  34  ~/Cashpat/cash.java
-|4,39,5,34,1645907352,"~/Cashpat/cash.java"
--'  5  34  ~/Cashpat/cash.java
-|4,39,5,34,1645907352,"~/Cashpat/cash.java"
--'  5  34  ~/Cashpat/cash.java
-|4,39,5,34,1645907352,"~/Cashpat/cash.java"
--'  5  34  ~/Cashpat/cash.java
-|4,39,5,34,1645907352,"~/Cashpat/cash.java"
--'  5  34  ~/Cashpat/cash.java
-|4,39,5,34,1645907352,"~/Cashpat/cash.java"
--'  5  34  ~/Cashpat/cash.java
-|4,39,5,34,1645907352,"~/Cashpat/cash.java"
--'  1  0  ~/Cashpat/cash.java
-|4,39,1,0,1645907320,"~/Cashpat/cash.java"
--'  1  0  ~/Cashpat/cash.java
-|4,39,1,0,1645907320,"~/Cashpat/cash.java"
--'  1  0  ~/Cashpat/cash.java
-|4,39,1,0,1645907320,"~/Cashpat/cash.java"
--'  1  0  ~/Cashpat/cash.java
-|4,39,1,0,1645907320,"~/Cashpat/cash.java"
--'  1  0  ~/Cashpat/cash.java
-|4,39,1,0,1645907320,"~/Cashpat/cash.java"
--'  1  0  ~/Cashpat/cash.java
-|4,39,1,0,1645907320,"~/Cashpat/cash.java"
--'  1  0  ~/Cashpat/cash.java
-|4,39,1,0,1645907320,"~/Cashpat/cash.java"
--'  1  0  ~/Cashpat/cash.java
-|4,39,1,0,1645907320,"~/Cashpat/cash.java"
--'  1  0  ~/Cashpat/cash.java
-|4,39,1,0,1645907320,"~/Cashpat/cash.java"
--'  1  0  ~/Cashpat/cash.java
-|4,39,1,0,1645907320,"~/Cashpat/cash.java"
--'  1  0  ~/Cashpat/cash.java
-|4,39,1,0,1645907320,"~/Cashpat/cash.java"
--'  1  0  ~/Cashpat/cash.java
-|4,39,1,0,1645907320,"~/Cashpat/cash.java"
--'  1  0  ~/Cashpat/cash.java
-|4,39,1,0,1645907320,"~/Cashpat/cash.java"
--'  1  0  ~/Cashpat/cash.java
-|4,39,1,0,1645907320,"~/Cashpat/cash.java"
--'  1  0  ~/Cashpat/cash.java
-|4,39,1,0,1645907320,"~/Cashpat/cash.java"
--'  1  0  ~/Cashpat/cash.java
-|4,39,1,0,1645907320,"~/Cashpat/cash.java"
--'  1  0  ~/Cashpat/cash.java
-|4,39,1,0,1645907320,"~/Cashpat/cash.java"
--'  1  0  ~/Cashpat/cash.java
-|4,39,1,0,1645907320,"~/Cashpat/cash.java"
--'  1  0  ~/Cashpat/cash.java
-|4,39,1,0,1645907320,"~/Cashpat/cash.java"
--'  1  0  ~/Cashpat/cash.java
-|4,39,1,0,1645907320,"~/Cashpat/cash.java"
--'  1  0  ~/Cashpat/cash.java
-|4,39,1,0,1645907320,"~/Cashpat/cash.java"
--'  1  0  ~/Cashpat/cash.java
-|4,39,1,0,1645907320,"~/Cashpat/cash.java"
--'  1  0  ~/Cashpat/cash.java
-|4,39,1,0,1645907320,"~/Cashpat/cash.java"
--'  1  0  ~/Cashpat/cash.java
-|4,39,1,0,1645907320,"~/Cashpat/cash.java"
--'  1  0  ~/Cashpat/cash.java
-|4,39,1,0,1645907320,"~/Cashpat/cash.java"
--'  1  0  ~/Cashpat/cash.java
-|4,39,1,0,1645907320,"~/Cashpat/cash.java"
--'  1  0  ~/Cashpat/cash.java
-|4,39,1,0,1645907320,"~/Cashpat/cash.java"
--'  1  0  ~/Cashpat/cash.java
-|4,39,1,0,1645907320,"~/Cashpat/cash.java"
+|4,39,7,3,1645915425,"~/Cashpat/managers.sh"
+-'  7  3  ~/Cashpat/managers.sh
+|4,39,7,3,1645915425,"~/Cashpat/managers.sh"
+-'  7  3  ~/Cashpat/managers.sh
+|4,39,7,3,1645915425,"~/Cashpat/managers.sh"
+-'  7  3  ~/Cashpat/managers.sh
+|4,39,7,3,1645915425,"~/Cashpat/managers.sh"
+-'  7  3  ~/Cashpat/managers.sh
+|4,39,7,3,1645915425,"~/Cashpat/managers.sh"
+-'  7  3  ~/Cashpat/managers.sh
+|4,39,7,3,1645915425,"~/Cashpat/managers.sh"
+-'  7  3  ~/Cashpat/managers.sh
+|4,39,7,3,1645915425,"~/Cashpat/managers.sh"
+-'  7  3  ~/Cashpat/managers.sh
+|4,39,7,3,1645915425,"~/Cashpat/managers.sh"
+-'  7  3  ~/Cashpat/managers.sh
+|4,39,7,3,1645915425,"~/Cashpat/managers.sh"
+-'  7  3  ~/Cashpat/managers.sh
+|4,39,7,3,1645915425,"~/Cashpat/managers.sh"
+-'  7  3  ~/Cashpat/managers.sh
+|4,39,7,3,1645915425,"~/Cashpat/managers.sh"
 
 # History of marks within files (newest to oldest):
+
+> ~/Paypal/Cash/managers.sh
+	*	1648723558	0
+	"	10	0
+	^	10	0
+	.	9	5
+	+	1	0
+	+	9	5
+
+> ~/Paypal/managers
+	*	1648677770	0
+	"	4	6
+	^	4	7
+	.	4	7
+	+	4	7
+
+> ~/Paypal/app.java
+	*	1648665989	0
+	"	5	44
+	^	5	45
+	.	5	45
+	+	5	45
 
 > ~/zelle/zelle
 	*	1646017573	0

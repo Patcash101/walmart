@@ -333,3 +333,316 @@ git log
 git status
 git log
 gitstatus
+git status
+git log
+git add .
+git stutusclear
+ clear
+git status
+git rm --zelle
+git log
+git status
+clear
+git log
+git status
+git rm --cahched zelle
+clear
+pwd
+ls
+sudo simon
+sudo su - simon
+sudo su - root
+ls
+whoami
+git status
+cd zelle
+pwd
+git log
+status
+git 
+git help workflow
+clear
+pwd
+cd ec2-user
+ls
+zelle
+cd zelle
+git remote -v
+pwd
+cd ..
+pwd
+ls
+git
+git version
+whoami
+sudo host name git
+sudo hostname git
+sudo su - ec2-user
+whoami
+ls
+git --version
+git
+git help git
+clear
+mkdir Paypal
+ls
+cd Paypal
+git --version
+sudo su simon
+whoami
+cd ..
+ls
+cd ../..
+ls
+cd
+whoami
+ls
+sudo su simon
+git
+whoami
+ls
+cd Paypal
+sudo su - simon
+git status
+ls
+clear
+ls
+ls -a
+git init
+ls -a
+git branch -m Paypal
+ls
+ls -a
+git staus
+git status
+pwd
+vi app.java
+cat app.java
+git status
+git config --global user.mame pat cash
+git config --global user.email pa101@yahoo.com
+ls
+sudo su patcash
+sudo su - patcash
+git config --global user.mame patrick jubilee
+git config --global user.email patrickjubilee@gmail.com
+git config --global --list
+whoami
+sudo su - patrick
+whoami
+pwd
+ls
+ls -a
+ls
+ls -a
+cat app.java
+git status
+git add .
+git status
+git commit -m my first paypal commit
+git commit -m "my first commit"
+status
+git status
+git log
+touch manager's list.sh
+ls
+ls
+cat app.java
+ls -a
+clear
+vi managers list.sh
+cat managers list.sh
+ls
+cat managers
+chmod managers > managers_list.sh
+chmod --help
+ls
+ls -l
+cat managers_list.sh
+rm -rf managers_list.sh
+ls
+ls -l
+cat mnagers
+cat mnanagers
+cat managers
+clear
+git status
+git add*
+git add *
+git status
+git log
+git restore --staged <managers>
+git restore --staged managers
+ls
+git status
+cat managers
+git commit -m "my 2nd commit"
+git add *
+git status
+git commit -m "my 2nd commit"
+git log
+git remote add pp $
+$
+clear
+git remote add pp https://github.com/Paypal-Project/Paypal.git
+git remote add ppp https://github.com/Paypal-Project/Paypal.git
+git remote -v
+rm -rf pp
+git remote -v
+rm -rf git remote pp
+ls
+git remote -v
+git log
+git ststus
+status
+whoami
+clear
+pwd
+ls
+cd Paypal
+ls
+git log
+git remote -v 
+sudo rm -ft pp
+rm --help
+rm pp
+rm git remote -v
+remote -v
+git remote -v 
+git push pppp master
+git push ppp master
+clear
+git remote ad pj https://github.com/Paypal-Project/Paypal.git
+git remote add pj https://github.com/Paypal-Project/Paypal.git
+remote -v
+git remote -v 
+git push pj master
+git remote -v 
+git push pj master
+git config --global --list
+rm pat
+rm -rf pat
+git config --global --list
+git config --global user.name pat cash
+git config --global user.email patcash101@yahoo.com
+git config --global --list
+git push pj master
+ls
+git log
+git push pj Paypal
+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
+git push pj Paypal
+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
+git push pj Paypal
+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
+git push pj Paypal
+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
+git push pj Paypal
+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
+git push pj Paypal
+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
+git push pj Paypal
+git clone https://github.com/Cashpat/Cash
+ls
+cd Cash
+ls
+vi managers.sh
+cat managers.sh
+git staus
+git status
+git comit -a -m "file was modified"
+git commit -a -m "file was modified"
+git log -s
+git remote -v
+git push origin master
+sudo yum update
+git -m version
+git --version
+clear
+sudo su simon
+sudo hostname
+ls
+whoami
+cd Paypal
+ls
+ls -s
+sudo su - simon
+cd
+pwd
+ls
+cd zelle
+cd
+ls
+cd zelle/
+ls
+git status
+ls
+cd zelle/
+ls
+cd zelle
+cd patcash
+cdcd
+cd
+ls
+cd Patcash
+ls
+cd
+cd Paypal
+ls
+cd Cash
+ls
+cat managers.sh
+cd
+ls
+cd Paypal
+ls -n
+ls -n paypl
+ls
+cat -n app.java
+cd Cash
+cat -n Cash
+cd managers
+ls
+cd managers.sh
+cat managers.java
+ls
+cd managers.sh
+cat managers.sh
+log
+cd
+log
+ls
+git status
+clear
+ls
+cd zelle
+cat -n 
+cat -n zelle
+git remote -v
+git fetch avaapp
+git log
+git remote add ml
+[ec2-user@git zelle]$ git log
+git branch
+ls
+git branch Development
+git branch
+git ranch
+git branch
+status
+git status
+git add Paypal
+git status
+git commit -m "latest commit"
+cat .bash_history
+git log
+git branch
+pwd
+ls
+cd zelled
+cd zelle
+ls
+cd zelled
+cd zelle
+cat -n zelle
+git branch
