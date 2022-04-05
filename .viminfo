@@ -10,11 +10,24 @@
 
 # hlsearch on (H) or off (h):
 ~H
+# Last Substitute String:
+$
+
 # Command Line History (newest to oldest):
+:qa!
+|2,0,1649082556,,"qa!"
+:qa
+|2,0,1649082534,,"qa"
+:Q!
+|2,0,1649081819,,"Q!"
+:q!
+|2,0,1649080468,,"q!"
 :wq!
 |2,0,1648666006,,"wq!"
 
 # Search String History (newest to oldest):
+? @$
+|2,1,1649081772,,"@$"
 
 # Expression History (newest to oldest):
 
@@ -29,232 +42,282 @@
 "w	CHAR	0
 	!€ıa
 |3,0,32,0,1,0,1645906749,"!€ıa"
+""-	CHAR	0
+	o
+|3,1,36,0,1,0,1649091398,"o"
 
 # File marks:
-'0  10  0  ~/Paypal/Cash/managers.sh
-|4,48,10,0,1648723562,"~/Paypal/Cash/managers.sh"
-'1  4  6  ~/Paypal/managers
-|4,49,4,6,1648677776,"~/Paypal/managers"
-'2  5  44  ~/Paypal/app.java
-|4,50,5,44,1648666006,"~/Paypal/app.java"
-'3  5  25  ~/zelle/zelle
-|4,51,5,25,1646017576,"~/zelle/zelle"
-'4  5  25  ~/zelle/zelle
-|4,52,5,25,1646013395,"~/zelle/zelle"
-'5  10  5  ~/Cashpat/managers.sh
-|4,53,10,5,1645915467,"~/Cashpat/managers.sh"
-'6  1  0  ~/Cashpat/magaers.sh
-|4,54,1,0,1645915323,"~/Cashpat/magaers.sh"
-'7  7  3  ~/Cashpat/managers.sh
-|4,55,7,3,1645911561,"~/Cashpat/managers.sh"
-'8  7  3  ~/Cashpat/managers.sh
-|4,56,7,3,1645911561,"~/Cashpat/managers.sh"
-'9  5  34  ~/Cashpat/cash.java
-|4,57,5,34,1645907352,"~/Cashpat/cash.java"
+'0  6  0  ~/ebay/ebay.jav
+|4,48,6,0,1649092918,"~/ebay/ebay.jav"
+'1  6  0  ~/ebay/ebay
+|4,49,6,0,1649092758,"~/ebay/ebay"
+'2  5  38  ~/Paypal/app.java
+|4,50,5,38,1649091552,"~/Paypal/app.java"
+'3  5  38  ~/Paypal/app.java
+|4,51,5,38,1649091506,"~/Paypal/app.java"
+'4  5  41  ~/Paypal/app.java
+|4,52,5,41,1649090673,"~/Paypal/app.java"
+'5  5  41  ~/Paypal/app.java
+|4,53,5,41,1649090673,"~/Paypal/app.java"
+'6  5  41  ~/zelle/zelle
+|4,54,5,41,1649088435,"~/zelle/zelle"
+'7  1  0  ~/Cashpat/https:/Paypal
+|4,55,1,0,1649082556,"~/Cashpat/https:/Paypal"
+'8  8  0  ~/Cashpat/https:/github.com
+|4,56,8,0,1649081853,"~/Cashpat/https:/github.com"
+'9  763  0  ~/.bash_history
+|4,57,763,0,1649080468,"~/.bash_history"
 
 # Jumplist (newest first):
--'  10  0  ~/Paypal/Cash/managers.sh
-|4,39,10,0,1648723562,"~/Paypal/Cash/managers.sh"
--'  1  0  ~/Paypal/Cash/managers.sh
-|4,39,1,0,1648723528,"~/Paypal/Cash/managers.sh"
--'  4  6  ~/Paypal/managers
-|4,39,4,6,1648677776,"~/Paypal/managers"
--'  4  6  ~/Paypal/managers
-|4,39,4,6,1648677776,"~/Paypal/managers"
--'  1  0  ~/Paypal/managers
-|4,39,1,0,1648677604,"~/Paypal/managers"
--'  1  0  ~/Paypal/managers
-|4,39,1,0,1648677604,"~/Paypal/managers"
--'  5  44  ~/Paypal/app.java
-|4,39,5,44,1648666006,"~/Paypal/app.java"
--'  5  44  ~/Paypal/app.java
-|4,39,5,44,1648666006,"~/Paypal/app.java"
--'  5  44  ~/Paypal/app.java
-|4,39,5,44,1648666006,"~/Paypal/app.java"
--'  5  44  ~/Paypal/app.java
-|4,39,5,44,1648666006,"~/Paypal/app.java"
--'  1  0  ~/Paypal/app.java
-|4,39,1,0,1648665962,"~/Paypal/app.java"
--'  1  0  ~/Paypal/app.java
-|4,39,1,0,1648665962,"~/Paypal/app.java"
--'  1  0  ~/Paypal/app.java
-|4,39,1,0,1648665962,"~/Paypal/app.java"
--'  1  0  ~/Paypal/app.java
-|4,39,1,0,1648665962,"~/Paypal/app.java"
--'  5  25  ~/zelle/zelle
-|4,39,5,25,1646017576,"~/zelle/zelle"
--'  5  25  ~/zelle/zelle
-|4,39,5,25,1646017576,"~/zelle/zelle"
--'  5  25  ~/zelle/zelle
-|4,39,5,25,1646017576,"~/zelle/zelle"
--'  5  25  ~/zelle/zelle
-|4,39,5,25,1646017576,"~/zelle/zelle"
--'  5  25  ~/zelle/zelle
-|4,39,5,25,1646017576,"~/zelle/zelle"
--'  5  25  ~/zelle/zelle
-|4,39,5,25,1646017576,"~/zelle/zelle"
--'  5  25  ~/zelle/zelle
-|4,39,5,25,1646017576,"~/zelle/zelle"
--'  5  25  ~/zelle/zelle
-|4,39,5,25,1646017576,"~/zelle/zelle"
--'  5  25  ~/zelle/zelle
-|4,39,5,25,1646013395,"~/zelle/zelle"
--'  5  25  ~/zelle/zelle
-|4,39,5,25,1646013395,"~/zelle/zelle"
--'  5  25  ~/zelle/zelle
-|4,39,5,25,1646013395,"~/zelle/zelle"
--'  5  25  ~/zelle/zelle
-|4,39,5,25,1646013395,"~/zelle/zelle"
--'  5  25  ~/zelle/zelle
-|4,39,5,25,1646013395,"~/zelle/zelle"
--'  5  25  ~/zelle/zelle
-|4,39,5,25,1646013395,"~/zelle/zelle"
--'  5  25  ~/zelle/zelle
-|4,39,5,25,1646013395,"~/zelle/zelle"
--'  5  25  ~/zelle/zelle
-|4,39,5,25,1646013395,"~/zelle/zelle"
--'  1  0  ~/zelle/zelle
-|4,39,1,0,1646013063,"~/zelle/zelle"
--'  1  0  ~/zelle/zelle
-|4,39,1,0,1646013063,"~/zelle/zelle"
--'  1  0  ~/zelle/zelle
-|4,39,1,0,1646013063,"~/zelle/zelle"
--'  1  0  ~/zelle/zelle
-|4,39,1,0,1646013063,"~/zelle/zelle"
--'  1  0  ~/zelle/zelle
-|4,39,1,0,1646013063,"~/zelle/zelle"
--'  1  0  ~/zelle/zelle
-|4,39,1,0,1646013063,"~/zelle/zelle"
--'  1  0  ~/zelle/zelle
-|4,39,1,0,1646013063,"~/zelle/zelle"
--'  1  0  ~/zelle/zelle
-|4,39,1,0,1646013063,"~/zelle/zelle"
--'  1  0  ~/zelle/zelle
-|4,39,1,0,1646013063,"~/zelle/zelle"
--'  1  0  ~/zelle/zelle
-|4,39,1,0,1646013063,"~/zelle/zelle"
--'  1  0  ~/zelle/zelle
-|4,39,1,0,1646013063,"~/zelle/zelle"
--'  1  0  ~/zelle/zelle
-|4,39,1,0,1646013063,"~/zelle/zelle"
--'  1  0  ~/zelle/zelle
-|4,39,1,0,1646013063,"~/zelle/zelle"
--'  1  0  ~/zelle/zelle
-|4,39,1,0,1646013063,"~/zelle/zelle"
--'  1  0  ~/zelle/zelle
-|4,39,1,0,1646013063,"~/zelle/zelle"
--'  1  0  ~/zelle/zelle
-|4,39,1,0,1646013063,"~/zelle/zelle"
--'  10  5  ~/Cashpat/managers.sh
-|4,39,10,5,1645915467,"~/Cashpat/managers.sh"
--'  10  5  ~/Cashpat/managers.sh
-|4,39,10,5,1645915467,"~/Cashpat/managers.sh"
--'  10  5  ~/Cashpat/managers.sh
-|4,39,10,5,1645915467,"~/Cashpat/managers.sh"
--'  10  5  ~/Cashpat/managers.sh
-|4,39,10,5,1645915467,"~/Cashpat/managers.sh"
--'  10  5  ~/Cashpat/managers.sh
-|4,39,10,5,1645915467,"~/Cashpat/managers.sh"
--'  10  5  ~/Cashpat/managers.sh
-|4,39,10,5,1645915467,"~/Cashpat/managers.sh"
--'  10  5  ~/Cashpat/managers.sh
-|4,39,10,5,1645915467,"~/Cashpat/managers.sh"
--'  10  5  ~/Cashpat/managers.sh
-|4,39,10,5,1645915467,"~/Cashpat/managers.sh"
--'  10  5  ~/Cashpat/managers.sh
-|4,39,10,5,1645915467,"~/Cashpat/managers.sh"
--'  10  5  ~/Cashpat/managers.sh
-|4,39,10,5,1645915467,"~/Cashpat/managers.sh"
--'  10  5  ~/Cashpat/managers.sh
-|4,39,10,5,1645915467,"~/Cashpat/managers.sh"
--'  10  5  ~/Cashpat/managers.sh
-|4,39,10,5,1645915467,"~/Cashpat/managers.sh"
--'  10  5  ~/Cashpat/managers.sh
-|4,39,10,5,1645915467,"~/Cashpat/managers.sh"
--'  10  5  ~/Cashpat/managers.sh
-|4,39,10,5,1645915467,"~/Cashpat/managers.sh"
--'  10  5  ~/Cashpat/managers.sh
-|4,39,10,5,1645915467,"~/Cashpat/managers.sh"
--'  10  5  ~/Cashpat/managers.sh
-|4,39,10,5,1645915467,"~/Cashpat/managers.sh"
--'  10  5  ~/Cashpat/managers.sh
-|4,39,10,5,1645915467,"~/Cashpat/managers.sh"
--'  10  5  ~/Cashpat/managers.sh
-|4,39,10,5,1645915467,"~/Cashpat/managers.sh"
--'  10  5  ~/Cashpat/managers.sh
-|4,39,10,5,1645915467,"~/Cashpat/managers.sh"
--'  10  5  ~/Cashpat/managers.sh
-|4,39,10,5,1645915467,"~/Cashpat/managers.sh"
--'  10  5  ~/Cashpat/managers.sh
-|4,39,10,5,1645915467,"~/Cashpat/managers.sh"
--'  10  5  ~/Cashpat/managers.sh
-|4,39,10,5,1645915467,"~/Cashpat/managers.sh"
--'  10  5  ~/Cashpat/managers.sh
-|4,39,10,5,1645915467,"~/Cashpat/managers.sh"
--'  10  5  ~/Cashpat/managers.sh
-|4,39,10,5,1645915467,"~/Cashpat/managers.sh"
--'  10  5  ~/Cashpat/managers.sh
-|4,39,10,5,1645915467,"~/Cashpat/managers.sh"
--'  10  5  ~/Cashpat/managers.sh
-|4,39,10,5,1645915467,"~/Cashpat/managers.sh"
--'  10  5  ~/Cashpat/managers.sh
-|4,39,10,5,1645915467,"~/Cashpat/managers.sh"
--'  10  5  ~/Cashpat/managers.sh
-|4,39,10,5,1645915467,"~/Cashpat/managers.sh"
--'  10  5  ~/Cashpat/managers.sh
-|4,39,10,5,1645915467,"~/Cashpat/managers.sh"
--'  10  5  ~/Cashpat/managers.sh
-|4,39,10,5,1645915467,"~/Cashpat/managers.sh"
--'  10  5  ~/Cashpat/managers.sh
-|4,39,10,5,1645915467,"~/Cashpat/managers.sh"
--'  10  5  ~/Cashpat/managers.sh
-|4,39,10,5,1645915467,"~/Cashpat/managers.sh"
--'  7  3  ~/Cashpat/managers.sh
-|4,39,7,3,1645915425,"~/Cashpat/managers.sh"
--'  7  3  ~/Cashpat/managers.sh
-|4,39,7,3,1645915425,"~/Cashpat/managers.sh"
--'  7  3  ~/Cashpat/managers.sh
-|4,39,7,3,1645915425,"~/Cashpat/managers.sh"
--'  7  3  ~/Cashpat/managers.sh
-|4,39,7,3,1645915425,"~/Cashpat/managers.sh"
--'  7  3  ~/Cashpat/managers.sh
-|4,39,7,3,1645915425,"~/Cashpat/managers.sh"
--'  7  3  ~/Cashpat/managers.sh
-|4,39,7,3,1645915425,"~/Cashpat/managers.sh"
--'  7  3  ~/Cashpat/managers.sh
-|4,39,7,3,1645915425,"~/Cashpat/managers.sh"
--'  7  3  ~/Cashpat/managers.sh
-|4,39,7,3,1645915425,"~/Cashpat/managers.sh"
--'  7  3  ~/Cashpat/managers.sh
-|4,39,7,3,1645915425,"~/Cashpat/managers.sh"
--'  7  3  ~/Cashpat/managers.sh
-|4,39,7,3,1645915425,"~/Cashpat/managers.sh"
--'  7  3  ~/Cashpat/managers.sh
-|4,39,7,3,1645915425,"~/Cashpat/managers.sh"
--'  7  3  ~/Cashpat/managers.sh
-|4,39,7,3,1645915425,"~/Cashpat/managers.sh"
--'  7  3  ~/Cashpat/managers.sh
-|4,39,7,3,1645915425,"~/Cashpat/managers.sh"
--'  7  3  ~/Cashpat/managers.sh
-|4,39,7,3,1645915425,"~/Cashpat/managers.sh"
--'  7  3  ~/Cashpat/managers.sh
-|4,39,7,3,1645915425,"~/Cashpat/managers.sh"
--'  7  3  ~/Cashpat/managers.sh
-|4,39,7,3,1645915425,"~/Cashpat/managers.sh"
--'  7  3  ~/Cashpat/managers.sh
-|4,39,7,3,1645915425,"~/Cashpat/managers.sh"
--'  7  3  ~/Cashpat/managers.sh
-|4,39,7,3,1645915425,"~/Cashpat/managers.sh"
--'  7  3  ~/Cashpat/managers.sh
-|4,39,7,3,1645915425,"~/Cashpat/managers.sh"
--'  7  3  ~/Cashpat/managers.sh
-|4,39,7,3,1645915425,"~/Cashpat/managers.sh"
--'  7  3  ~/Cashpat/managers.sh
-|4,39,7,3,1645915425,"~/Cashpat/managers.sh"
--'  7  3  ~/Cashpat/managers.sh
-|4,39,7,3,1645915425,"~/Cashpat/managers.sh"
+-'  6  0  ~/ebay/ebay.jav
+|4,39,6,0,1649092918,"~/ebay/ebay.jav"
+-'  1  0  ~/ebay/ebay.jav
+|4,39,1,0,1649092911,"~/ebay/ebay.jav"
+-'  6  0  ~/ebay/ebay
+|4,39,6,0,1649092758,"~/ebay/ebay"
+-'  6  0  ~/ebay/ebay
+|4,39,6,0,1649092758,"~/ebay/ebay"
+-'  1  0  ~/ebay/ebay
+|4,39,1,0,1649092746,"~/ebay/ebay"
+-'  1  0  ~/ebay/ebay
+|4,39,1,0,1649092746,"~/ebay/ebay"
+-'  5  38  ~/Paypal/app.java
+|4,39,5,38,1649091552,"~/Paypal/app.java"
+-'  5  38  ~/Paypal/app.java
+|4,39,5,38,1649091552,"~/Paypal/app.java"
+-'  5  38  ~/Paypal/app.java
+|4,39,5,38,1649091552,"~/Paypal/app.java"
+-'  5  38  ~/Paypal/app.java
+|4,39,5,38,1649091552,"~/Paypal/app.java"
+-'  5  38  ~/Paypal/app.java
+|4,39,5,38,1649091506,"~/Paypal/app.java"
+-'  5  38  ~/Paypal/app.java
+|4,39,5,38,1649091506,"~/Paypal/app.java"
+-'  5  38  ~/Paypal/app.java
+|4,39,5,38,1649091506,"~/Paypal/app.java"
+-'  5  38  ~/Paypal/app.java
+|4,39,5,38,1649091506,"~/Paypal/app.java"
+-'  5  41  ~/Paypal/app.java
+|4,39,5,41,1649090673,"~/Paypal/app.java"
+-'  5  41  ~/Paypal/app.java
+|4,39,5,41,1649090673,"~/Paypal/app.java"
+-'  5  41  ~/Paypal/app.java
+|4,39,5,41,1649090673,"~/Paypal/app.java"
+-'  5  41  ~/Paypal/app.java
+|4,39,5,41,1649090673,"~/Paypal/app.java"
+-'  5  41  ~/zelle/zelle
+|4,39,5,41,1649088435,"~/zelle/zelle"
+-'  5  41  ~/zelle/zelle
+|4,39,5,41,1649088435,"~/zelle/zelle"
+-'  5  41  ~/zelle/zelle
+|4,39,5,41,1649088435,"~/zelle/zelle"
+-'  5  41  ~/zelle/zelle
+|4,39,5,41,1649088435,"~/zelle/zelle"
+-'  5  41  ~/zelle/zelle
+|4,39,5,41,1649088435,"~/zelle/zelle"
+-'  5  41  ~/zelle/zelle
+|4,39,5,41,1649088435,"~/zelle/zelle"
+-'  5  41  ~/zelle/zelle
+|4,39,5,41,1649088435,"~/zelle/zelle"
+-'  5  41  ~/zelle/zelle
+|4,39,5,41,1649088435,"~/zelle/zelle"
+-'  5  41  ~/zelle/zelle
+|4,39,5,41,1649088435,"~/zelle/zelle"
+-'  5  41  ~/zelle/zelle
+|4,39,5,41,1649088435,"~/zelle/zelle"
+-'  5  41  ~/zelle/zelle
+|4,39,5,41,1649088435,"~/zelle/zelle"
+-'  5  41  ~/zelle/zelle
+|4,39,5,41,1649088435,"~/zelle/zelle"
+-'  5  41  ~/zelle/zelle
+|4,39,5,41,1649088435,"~/zelle/zelle"
+-'  5  41  ~/zelle/zelle
+|4,39,5,41,1649088435,"~/zelle/zelle"
+-'  5  41  ~/zelle/zelle
+|4,39,5,41,1649088435,"~/zelle/zelle"
+-'  5  41  ~/zelle/zelle
+|4,39,5,41,1649088435,"~/zelle/zelle"
+-'  5  41  ~/zelle/zelle
+|4,39,5,41,1649088435,"~/zelle/zelle"
+-'  5  41  ~/zelle/zelle
+|4,39,5,41,1649088435,"~/zelle/zelle"
+-'  5  41  ~/zelle/zelle
+|4,39,5,41,1649088435,"~/zelle/zelle"
+-'  5  41  ~/zelle/zelle
+|4,39,5,41,1649088435,"~/zelle/zelle"
+-'  5  41  ~/zelle/zelle
+|4,39,5,41,1649088435,"~/zelle/zelle"
+-'  5  41  ~/zelle/zelle
+|4,39,5,41,1649088435,"~/zelle/zelle"
+-'  5  41  ~/zelle/zelle
+|4,39,5,41,1649088435,"~/zelle/zelle"
+-'  5  41  ~/zelle/zelle
+|4,39,5,41,1649088435,"~/zelle/zelle"
+-'  5  41  ~/zelle/zelle
+|4,39,5,41,1649088435,"~/zelle/zelle"
+-'  5  41  ~/zelle/zelle
+|4,39,5,41,1649088435,"~/zelle/zelle"
+-'  5  41  ~/zelle/zelle
+|4,39,5,41,1649088435,"~/zelle/zelle"
+-'  5  41  ~/zelle/zelle
+|4,39,5,41,1649088435,"~/zelle/zelle"
+-'  5  41  ~/zelle/zelle
+|4,39,5,41,1649088435,"~/zelle/zelle"
+-'  5  41  ~/zelle/zelle
+|4,39,5,41,1649088435,"~/zelle/zelle"
+-'  5  41  ~/zelle/zelle
+|4,39,5,41,1649088435,"~/zelle/zelle"
+-'  5  41  ~/zelle/zelle
+|4,39,5,41,1649088435,"~/zelle/zelle"
+-'  1  0  ~/Cashpat/https:/Paypal
+|4,39,1,0,1649082556,"~/Cashpat/https:/Paypal"
+-'  1  0  ~/Cashpat/https:/Paypal
+|4,39,1,0,1649082556,"~/Cashpat/https:/Paypal"
+-'  1  0  ~/Cashpat/https:/Paypal
+|4,39,1,0,1649082556,"~/Cashpat/https:/Paypal"
+-'  1  0  ~/Cashpat/https:/Paypal
+|4,39,1,0,1649082556,"~/Cashpat/https:/Paypal"
+-'  1  0  ~/Cashpat/https:/Paypal
+|4,39,1,0,1649082556,"~/Cashpat/https:/Paypal"
+-'  1  0  ~/Cashpat/https:/Paypal
+|4,39,1,0,1649082556,"~/Cashpat/https:/Paypal"
+-'  1  0  ~/Cashpat/https:/Paypal
+|4,39,1,0,1649082556,"~/Cashpat/https:/Paypal"
+-'  1  0  ~/Cashpat/https:/Paypal
+|4,39,1,0,1649082556,"~/Cashpat/https:/Paypal"
+-'  1  0  ~/Cashpat/https:/Paypal
+|4,39,1,0,1649082556,"~/Cashpat/https:/Paypal"
+-'  1  0  ~/Cashpat/https:/Paypal
+|4,39,1,0,1649082556,"~/Cashpat/https:/Paypal"
+-'  1  0  ~/Cashpat/https:/Paypal
+|4,39,1,0,1649082556,"~/Cashpat/https:/Paypal"
+-'  1  0  ~/Cashpat/https:/Paypal
+|4,39,1,0,1649082556,"~/Cashpat/https:/Paypal"
+-'  1  0  ~/Cashpat/https:/Paypal
+|4,39,1,0,1649082556,"~/Cashpat/https:/Paypal"
+-'  1  0  ~/Cashpat/https:/Paypal
+|4,39,1,0,1649082556,"~/Cashpat/https:/Paypal"
+-'  1  0  ~/Cashpat/https:/Paypal
+|4,39,1,0,1649082556,"~/Cashpat/https:/Paypal"
+-'  1  0  ~/Cashpat/https:/Paypal
+|4,39,1,0,1649082556,"~/Cashpat/https:/Paypal"
+-'  1  0  ~/Cashpat/https:/Paypal
+|4,39,1,0,1649082556,"~/Cashpat/https:/Paypal"
+-'  1  0  ~/Cashpat/https:/Paypal
+|4,39,1,0,1649082556,"~/Cashpat/https:/Paypal"
+-'  1  0  ~/Cashpat/https:/Paypal
+|4,39,1,0,1649082556,"~/Cashpat/https:/Paypal"
+-'  1  0  ~/Cashpat/https:/Paypal
+|4,39,1,0,1649082556,"~/Cashpat/https:/Paypal"
+-'  1  0  ~/Cashpat/https:/Paypal
+|4,39,1,0,1649082556,"~/Cashpat/https:/Paypal"
+-'  1  0  ~/Cashpat/https:/Paypal
+|4,39,1,0,1649082556,"~/Cashpat/https:/Paypal"
+-'  1  0  ~/Cashpat/https:/Paypal
+|4,39,1,0,1649082556,"~/Cashpat/https:/Paypal"
+-'  1  0  ~/Cashpat/https:/Paypal
+|4,39,1,0,1649082556,"~/Cashpat/https:/Paypal"
+-'  1  0  ~/Cashpat/https:/Paypal
+|4,39,1,0,1649082556,"~/Cashpat/https:/Paypal"
+-'  1  0  ~/Cashpat/https:/Paypal
+|4,39,1,0,1649082556,"~/Cashpat/https:/Paypal"
+-'  1  0  ~/Cashpat/https:/Paypal
+|4,39,1,0,1649082556,"~/Cashpat/https:/Paypal"
+-'  1  0  ~/Cashpat/https:/Paypal
+|4,39,1,0,1649082556,"~/Cashpat/https:/Paypal"
+-'  1  0  ~/Cashpat/https:/Paypal
+|4,39,1,0,1649082556,"~/Cashpat/https:/Paypal"
+-'  1  0  ~/Cashpat/https:/Paypal
+|4,39,1,0,1649082556,"~/Cashpat/https:/Paypal"
+-'  1  0  ~/Cashpat/https:/Paypal
+|4,39,1,0,1649082556,"~/Cashpat/https:/Paypal"
+-'  1  0  ~/Cashpat/https:/Paypal
+|4,39,1,0,1649082556,"~/Cashpat/https:/Paypal"
+-'  1  0  ~/Cashpat/https:/Paypal
+|4,39,1,0,1649082556,"~/Cashpat/https:/Paypal"
+-'  1  0  ~/Cashpat/https:/Paypal
+|4,39,1,0,1649082556,"~/Cashpat/https:/Paypal"
+-'  1  0  ~/Cashpat/https:/Paypal
+|4,39,1,0,1649082556,"~/Cashpat/https:/Paypal"
+-'  1  0  ~/Cashpat/https:/Paypal
+|4,39,1,0,1649082556,"~/Cashpat/https:/Paypal"
+-'  1  0  ~/Cashpat/https:/Paypal
+|4,39,1,0,1649082556,"~/Cashpat/https:/Paypal"
+-'  1  0  ~/Cashpat/https:/Paypal
+|4,39,1,0,1649082556,"~/Cashpat/https:/Paypal"
+-'  1  0  ~/Cashpat/https:/Paypal
+|4,39,1,0,1649082556,"~/Cashpat/https:/Paypal"
+-'  1  0  ~/Cashpat/https:/Paypal
+|4,39,1,0,1649082556,"~/Cashpat/https:/Paypal"
+-'  1  0  ~/Cashpat/https:/Paypal
+|4,39,1,0,1649082556,"~/Cashpat/https:/Paypal"
+-'  1  0  ~/Cashpat/https:/Paypal
+|4,39,1,0,1649082556,"~/Cashpat/https:/Paypal"
+-'  1  0  ~/Cashpat/https:/Paypal
+|4,39,1,0,1649082556,"~/Cashpat/https:/Paypal"
+-'  1  0  ~/Cashpat/https:/Paypal
+|4,39,1,0,1649082556,"~/Cashpat/https:/Paypal"
+-'  1  0  ~/Cashpat/https:/Paypal
+|4,39,1,0,1649082556,"~/Cashpat/https:/Paypal"
+-'  1  0  ~/Cashpat/https:/Paypal
+|4,39,1,0,1649082556,"~/Cashpat/https:/Paypal"
+-'  1  0  ~/Cashpat/https:/Paypal
+|4,39,1,0,1649082556,"~/Cashpat/https:/Paypal"
+-'  1  0  ~/Cashpat/https:/Paypal
+|4,39,1,0,1649082556,"~/Cashpat/https:/Paypal"
+-'  1  0  ~/Cashpat/https:/Paypal
+|4,39,1,0,1649082556,"~/Cashpat/https:/Paypal"
+-'  1  0  ~/Cashpat/https:/Paypal
+|4,39,1,0,1649082556,"~/Cashpat/https:/Paypal"
 
 # History of marks within files (newest to oldest):
+
+> ~/ebay/ebay.jav
+	*	1649092915	0
+	"	6	0
+	^	6	0
+	.	5	39
+	+	5	39
+
+> ~/ebay/ebay
+	*	1649092755	0
+	"	6	0
+	^	6	0
+	.	5	39
+	+	5	39
+
+> ~/Paypal/app.java
+	*	1649091548	0
+	"	5	38
+	^	5	39
+	.	5	10
+	+	5	70
+	+	5	191
+	+	5	10
+
+> ~/zelle/zelle
+	*	1649088432	0
+	"	5	41
+	^	5	42
+	.	5	42
+	+	2	34
+	+	4	24
+	+	3	6
+	+	1	25
+	+	3	5
+	+	5	42
+
+> ~/Cashpat/https:/Paypal
+	*	1649082548	0
+	"	1	0
+	^	1	0
+	.	1	0
+	+	1	5
+	+	1	0
+
+> ~/.bash_history
+	*	1649080445	0
+	"	763	0
 
 > ~/Paypal/Cash/managers.sh
 	*	1648723558	0
@@ -270,25 +333,6 @@
 	^	4	7
 	.	4	7
 	+	4	7
-
-> ~/Paypal/app.java
-	*	1648665989	0
-	"	5	44
-	^	5	45
-	.	5	45
-	+	5	45
-
-> ~/zelle/zelle
-	*	1646017573	0
-	"	5	25
-	^	5	26
-	.	5	26
-	+	2	34
-	+	4	24
-	+	3	6
-	+	1	25
-	+	3	5
-	+	5	26
 
 > ~/Cashpat/managers.sh
 	*	1645915449	0

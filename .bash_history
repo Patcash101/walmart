@@ -1,13 +1,3 @@
-whoami
-git --version
-sudo yum update
-cd ..
-yum load-transaction 
-ls
-cd ec2-user
-ls
-ls -l
-ls l
 ls
 ll
 pwd
@@ -646,3 +636,365 @@ cd zelled
 cd zelle
 cat -n zelle
 git branch
+git status
+git commit -a -m " untracked files"
+git log
+git status
+c\ls
+pwd
+ls
+cd Paypal
+ls
+cd Cash
+ls
+cat cash.java
+cd
+ls
+cd Paypal
+ls
+cat manager
+cat managers
+ls
+git add .
+git it
+git init
+ls
+git status
+cat Cash
+cd Cash
+ls
+cat managers.sh
+git log
+sudo su hostname
+pwd
+cat managers.sh
+git diff
+ls
+ls -a
+ 
+cd .git
+ls
+cd Head
+cat HEAD
+pwd
+cd
+ls
+pwd
+status
+log
+ls
+cd zelle
+ls
+git init
+ls
+cd zelle
+cat zelle
+vim zelle
+cat zelle
+git status
+git add -a -m "updated"
+git log
+git status
+git add zelle
+git status
+git commit -m "modified"
+ls
+log
+git diff
+git log
+git diff
+cat -n zelle
+git remote 
+git branch
+ls
+cd zelle
+ls
+git branch
+ls
+cat zelle
+ git checkout developement 
+ git checkout development 
+ git checkout Development 
+git branch
+ls
+cat zelle
+git branch master
+git branch
+git checkout master
+git branch
+cat zelle
+git merge Development
+git list
+git remote -m
+git remote -v
+git push avapp --all
+ls
+cd zelle
+ls
+cat zelle
+git branch
+git diff
+ls
+cat zelle
+vim zelle
+git status
+git commit -a -m "app modified"
+clear
+git status
+git branch
+git diff
+ls
+cat zelle
+git checkout Development
+git status
+git branch
+ls
+cat zelle
+git diff master
+ls
+git status
+vim .bash_history
+cat .bash_history
+whoami
+sudo su pato
+sudo su root
+sudo github
+pwd
+ls
+cd Cashpat
+ls
+cat cash.java
+branch
+git branch
+clone https://github.com/mylandmarktechs/bay.git
+git remote -v
+clone https://github.com/Paypal-Project/Paypal.git
+git version
+pwd
+ls
+cd
+ls
+pws
+pwd
+ls
+cd Cashpat
+ls
+git clone https://github.com/Paypal-Project/Paypal.git
+git remove -v
+git remote -v
+git remote add cash https://github.com/Paypal-Project/Paypal.git
+git remote -v
+clear
+git remote -v
+clone https://github.com/Paypal-Project/Paypal.git
+git clone https://github.com/Paypal-Project/Paypal.git
+ls
+ ls lt
+ls ltr
+ls -l
+cd https:
+ls
+cat github.com
+vim github.com
+vim Paypal
+ed
+pwd
+ls
+pwd
+ls -a
+cd
+ls
+git status
+git commit -a -m 'modification" 
+git status
+git log
+
+pwd
+pwd
+pwd
+git status
+git add Paypal
+git status
+git commit -a Paypal
+pwd
+ls
+pwd
+ls
+Paypal
+cd Paypal
+ls
+git add.
+git add .
+git status
+git commit -m "added application"
+git log
+clear
+git log
+git config
+clear
+git config --global --list
+git push https://github.com/Cashpat
+git push --set-upstream https://github.com/Cashpat Paypal
+clear
+git log
+git branh
+git branch
+clear
+pwd
+cd
+ls
+pwd
+git branch
+git push cash master
+git remote -v
+ls
+cd zelle
+ls
+git branch
+ls
+cat zelle
+vim zelle
+cat zelle
+git status
+git commit -a -m "moble app added
+git status
+git log
+git log
+git status
+git commit -a -m "moble app added"
+git status
+git log
+git remote -v
+git remote add dev https://github.com/Paypal-Project/Paypal.git
+git remote -v
+git push dev Development
+git push dev Development
+git push dev Development
+git push dev Development
+clear
+git log
+pwd
+ls
+cat zelle
+cd
+ls
+cat Paypal
+cd Paypal
+ls
+vim app.java
+cat app.java
+git status
+git commit -a -m "new commit"
+git status
+git status
+git log
+git branch
+git checkout Developmenet
+git branch 
+git push dev Paypal
+pwd
+lc
+cd
+ls
+git branch
+git push dev --all
+sudo su - simon
+sudo su -simon
+pwd
+ls
+cd Paypal 
+ls
+cat app.java
+vi  app.java
+cat app.java
+vi  app.java
+cat app.java
+clear
+git status
+git branch
+cat app.java
+clear
+pwd
+cd ..
+ls
+pwd
+pwd
+cd
+ls
+pwd
+cd ../
+pwd
+ls
+cd ec2-user
+ls
+pwd
+ls
+git branch
+git checkout development
+clear
+ls
+pwd
+mkdir ebay
+pwd
+ls
+cd ebay
+pwd
+ls
+git init
+ls
+cat ebay
+ls
+pwd
+vi ebay
+cat ebay
+pwd
+ls
+rm fr ebay
+rm rf ebay
+ls
+pwd
+cd ebay
+ls
+ls -a
+ls -l
+vi ebay.jav
+ls
+git status
+git branch
+cd
+pwd
+git branch
+ls
+cd ebay
+ls
+git add ebay.java
+git add .
+git staus
+git status
+git commit -m "new commit"
+git log
+git push dev master
+git remote -v
+git remote --v
+git dev master
+git branch
+git branch stage
+git branch
+git diff stage
+git diff
+git diff master
+git checkout stage
+git branch
+git diff master
+git merge
+git log
+whoami
+sudo hostname github
+ls
+whoami
+sudo su simon
+sudo su root
+sudo username
+whoami
+ls
+sudo -i
